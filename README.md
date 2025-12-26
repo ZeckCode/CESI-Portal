@@ -1,5 +1,7 @@
-# CESI-Portal
+  # CESI-Portal
 FOR SCHOOL PROJ
 
 
-For proper this all cesi related will posted here!! name properly according to their content and functions
+For proper, All cesi related will posted here!!
+
+name properly according to their content and functions
